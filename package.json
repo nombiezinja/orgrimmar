@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nombiezinja/orgrimmar/issues"
   },
-  "homepage": "https://github.com/nombiezinja/orgrimmar#readme"
+  "homepage": "https://github.com/nombiezinja/orgrimmar#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "knex": "^0.14.2",
+    "pg": "^7.4.0"
+  }
 }
