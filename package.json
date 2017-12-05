@@ -1,0 +1,19 @@
+{
+  "name": "orgrimmar",
+  "version": "1.0.0",
+  "description": "A web app that gamefies personal growth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nombiezinja/orgrimmar.git"
+  },
+  "author": "Ti Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nombiezinja/orgrimmar/issues"
+  },
+  "homepage": "https://github.com/nombiezinja/orgrimmar#readme"
+}
